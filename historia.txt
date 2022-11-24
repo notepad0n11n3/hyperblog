@@ -7,4 +7,6 @@ texto gen[erico para rellenar
 
 anita platzi es una persona que contribuye a este proyecto open source y naci[o en Internet.
 
-*GITHUB* tengo hambre :'u */GITHUB*
+
+
+<'' SOLO GIT FETCH....   diferencias entre fetch y pull ''>
